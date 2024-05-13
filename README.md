@@ -70,6 +70,7 @@ Este projeto consiste em uma API completa para o gerenciamento de uma escola, de
    git clone git@github.com:josejfs/API_Django_Rest_Framework.git
    cd API_Django_Rest_Framework
 
-1. **Instale as dependências:**
+2. **Instale as dependências:**
+   ```sh
    pip install django djangorestframework
    pip install django
